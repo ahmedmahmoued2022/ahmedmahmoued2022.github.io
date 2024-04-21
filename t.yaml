@@ -27,7 +27,7 @@ paths:
     delete:
       parameters:
         - description: |
-            "><h1>y
+            "><h1>yhacked <img>
           format: int64
           in: path
           name: id
