@@ -27,7 +27,7 @@ paths:
     delete:
       parameters:
         - description: |
-            "><h1>hacked <img src=8 alt="><h1>hh">
+            ><h1>hacked <img src=8 onchange=test>
           format: int64
           in: path
           name: id
@@ -35,4 +35,4 @@ paths:
           type: integer
       responses:
         '200':
-          description: "><h1 onerror=0>hacked
+          description: ><h1 onerror=0>hacked
