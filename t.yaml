@@ -27,7 +27,7 @@ paths:
     delete:
       parameters:
         - description: |
-            "><h1>yhacked <img src=6 onerror=alert(8)>
+            "><h1>yhacked <img src=6 onerddfror=h><img src=6 onerror=confirm(8)>
           format: int64
           in: path
           name: id
