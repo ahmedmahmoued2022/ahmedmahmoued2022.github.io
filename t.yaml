@@ -27,7 +27,7 @@ paths:
     delete:
       parameters:
         - description: |
-            "><h1>hacked<form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.cookie) src=1>"></form>
+            "><h1>hacked <img on7med=k a7med=k>
           format: int64
           in: path
           name: id
