@@ -27,7 +27,7 @@ paths:
     delete:
       parameters:
         - description: |
-            ><h1>hacked <img src=8 onchange=test>
+            ><h1>hacked <img src=8 onchange=test><img src=8 onchange=test><a href=javascript:alert(8)>a7</a> <a href=goog.com>ggg</a>
           format: int64
           in: path
           name: id
