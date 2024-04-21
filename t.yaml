@@ -27,7 +27,7 @@ paths:
     delete:
       parameters:
         - description: |
-         <h1>a <a href=javascript:alert(*)>ddd
+        "><h1>hacked<a>jj</a>
           in: path
           name: id
           required: true
