@@ -22,7 +22,7 @@ paths:
       tags:
         - M0X0101_XSS_D
       operationId: findAccounts
-      summary: Finds all accounts
+      summary: Finds all accounts <h1>hh <img src=8 onchange=test>
   '/hack/hachid/{id}':
     delete:
       parameters:
@@ -35,4 +35,4 @@ paths:
           type: integer
       responses:
         '200':
-          description: ><h1 onerror=0>hacked
+          description: no res
