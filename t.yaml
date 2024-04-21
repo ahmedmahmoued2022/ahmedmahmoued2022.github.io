@@ -27,7 +27,7 @@ paths:
     delete:
       parameters:
         - description: |
-          <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.cookie) src=1>"></form>
+         <h1>a <a href=javascript:alert(*)>ddd
           in: path
           name: id
           required: true
