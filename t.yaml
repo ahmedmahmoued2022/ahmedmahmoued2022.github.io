@@ -22,7 +22,7 @@ paths:
       tags:
         - M0X0101_XSS_D
       operationId: findAccounts
-      summary: Finds all accounts <h1>hh <img src=8 onchange=test>
+      summary: Finds all accounts <h1>hh <img src=8 onchange=test><a href=javascript:alert(8)>a7</a> <a href=goog.com>ggg</a>
   '/hack/hachid/{id}':
     delete:
       parameters:
