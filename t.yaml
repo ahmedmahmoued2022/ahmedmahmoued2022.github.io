@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            ><h1>hacked<img src="tes" ontouchmove="prompet(8)"/><object data="javascript:alert(8)">  <form action="post"><input value="name"></form>
+            ><h1>hacked<img src="tes" ontouchmove="prompet(8)"/><object data="javascript:alert(8)"> <a href=javascript:alert`5`>jjjjj</a> <form action="post"><input value="name"></form>
           format: int64
           in: path
           name: id
