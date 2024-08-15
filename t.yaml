@@ -27,7 +27,7 @@ paths:
     delete:
       parameters:
         - description: |
-            ><h1>hacked<img src="test"/> <form action="post"><input value="name"></form>
+            ><h1>hacked<img src="test" onerror="confirm(8)"/> <form action="post"><input value="name"></form>
           format: int64
           in: path
           name: id
